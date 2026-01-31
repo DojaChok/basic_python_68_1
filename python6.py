@@ -3,7 +3,7 @@
 # Fuctions
 #
 """
-def myFullName(firstName = "Santikan", lastName = "Haobun"):
+def myFullName(firstName = "unknow", lastName = "forger"):
     return firstName + " " + lastName
 
 print(myFullName("Lion", "Diet"))
