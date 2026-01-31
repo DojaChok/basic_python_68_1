@@ -1,0 +1,19 @@
+https://github.com/DojaChok/basic_python_68_1.git
+
+cd name_folder
+cd ..
+ls -al
+pwd
+
+code .
+
+git init
+git remote add origin https://github.com/DojaChok/basic_python_68_1.git
+
+git config --global user.name "DojaChok"
+git config --global user.email "makato1259@gmail.com"
+
+git add .
+git commit -m "wave150"
+git push origin main
+git pull origin main
